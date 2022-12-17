@@ -1,6 +1,6 @@
 ### Hi there, I`m Leo_chen 👋
 
-Hi, I`m Leo_chen, ShanghaiTech University, currently focusing on front-end engineering.The recently developed projects include:
+Hi, I`m Leo_chen, currently focusing on front-end engineering.The recently developed projects include:
 
 - [微信每日说:定时给女朋友微信发送每日天气提醒，以及每日一句](https://github.com/leochen-g/wechatBot)
 - [校友来了小程序:发现校友足迹，同城校友畅聊](https://github.com/leochen-g/alumin-connect)
