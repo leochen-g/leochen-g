@@ -2,7 +2,7 @@
 
 Hi, I`m Leo_chen, currently focusing on front-end engineering.The recently developed projects include:
 
-- [Dify工作流定时助手]([https://github.com/leochen-g/alumin-connect](https://github.com/leochen-g/dify-schedule))
+- [Dify工作流定时助手]([https://github.com/leochen-g/alumin-connect](https://github.com/leochen-g/dify-schedule)
 - [智能微秘书：智能机器人管理平台](https://github.com/leochen-g/wechat-assistant-pro)
 
 <!--
